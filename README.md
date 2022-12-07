@@ -34,6 +34,6 @@ Training log will be dumped to `log/CMAE/`.
 
 ### Genearting Graphs
 #### For Pass:
-- cd to log and run python generate_graphs_dense.py and python generate_graphs_sparse.py to geneate graphs for dense and sparse reward tasks of Room / Pass environment.
+- cd to log and run python generate_graphs_dense.py and python generate_graphs_sparse.py to generate graphs for dense and sparse reward tasks of Room / Pass environment.
 ### License
 CMAE is licensed under the MIT License
