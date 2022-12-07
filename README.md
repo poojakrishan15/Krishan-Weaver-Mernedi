@@ -32,7 +32,7 @@ If you used this code for your experiments or found it helpful, please consider 
     sh run_came_secret_room.sh
 Training log will be dumped to `log/CMAE/`.
 
-### Genearting Graphs
+### Generating Graphs
 #### For Pass:
 - cd to log and run python generate_graphs_dense.py and python generate_graphs_sparse.py to generate graphs for dense and sparse reward tasks of Room / Pass environment.
 ### License
