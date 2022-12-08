@@ -144,6 +144,7 @@ def main():
     total_step_count_list = []
 
     while True:
+        env.render()
         agent1_count[s_raw[1], s_raw[0]] += 1
         agent2_count[s_raw[3], s_raw[2]] += 1
         episode_step += 1
