@@ -20,7 +20,7 @@ ENV_MAP = {
     'secret_room_ckpt': functools.partial(SecretRooms, H=300, grid_size=25, n_actions=4, n_agents=2, checkpoint=True),
     'push_box': functools.partial(PushBox, H=300, grid_size=10, n_actions=4, n_agents=2),
     'push_box_ckpt': functools.partial(PushBox, H=300, grid_size=15, n_actions=4, n_agents=2, checkpoint=True),
-    'rwh': functools.partial(Warehouse, 3, 2, 3, 2, 3, 1, 5, None, None, 0),
+    'rwh': functools.partial(Warehouse, 9, 8, 3, 10, 3, 1, 5, None, None, 0),
     'derk': functools.partial(DerkEnv),
     'lbf':functools.partial(ForagingEnv,grid_size = 5,field_size=(5,5),players=2, max_player_level=3,max_food=3, sight=1,max_episode_steps=50,force_coop=True)
 }
