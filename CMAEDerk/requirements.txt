@@ -1,0 +1,17 @@
+appdirs==1.4.4
+certifi==2022.9.24
+cloudpickle==2.2.0
+gym==0.26.2
+gym-derk==1.1.1
+gym-notices==0.0.8
+importlib-metadata==5.1.0
+networkx==2.8.8
+numpy==1.23.5
+pyee==8.2.2
+pygame==2.1.2
+pyppeteer==1.0.2
+scipy==1.9.3
+tqdm==4.64.1
+urllib3==1.26.13
+websockets==10.4
+zipp==3.11.0

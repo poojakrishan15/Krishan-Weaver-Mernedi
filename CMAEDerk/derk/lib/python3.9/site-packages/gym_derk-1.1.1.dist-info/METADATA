@@ -1,0 +1,25 @@
+Metadata-Version: 2.1
+Name: gym-derk
+Version: 1.1.1
+Summary: Derk OpenAI Gym Environment
+Home-page: https://gym.derkgame.com
+Author: Mount Rouke
+Author-email: contact@mountrouke.com
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Requires-Dist: pyppeteer
+Requires-Dist: gym
+Requires-Dist: numpy
+Requires-Dist: websockets
+
+# Derk's Gym
+
+MOBA-style reinforcement learning environment, based on the game "Dr. Derk's Mutant Battlegrounds".
+
+Read more: https://gym.derkgame.com
+
+Documentation: http://docs.gym.derkgame.com
+
+
