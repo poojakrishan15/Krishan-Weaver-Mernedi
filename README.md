@@ -57,4 +57,35 @@ CMAE is licensed under the MIT License
 
 ### 2. PressurePlate Multi-Agent Environment
 #### [[Project Website]](https://github.com/uoe-agents/pressureplate)
+<pre>
+@article{PressurePlate,
+    author = {Mcinroe, Trevor},
+    title = {{UOE-Agents/Pressureplate: Repo for the Multi-Agent Pressureplate Environment.}},
+    year = {2021},
+    note = {\url{https://github.com/IouJenLiu/CMAE.}},
+}
+</pre>
 
+### 3. Derk’s Gym 1.1.1
+#### [[Project Website]](http://docs.gym.derkgame.com/)
+<pre>
+@misc{gym_derk,
+   author = {John Fredrik Wilhelm Norén},
+   title = {Derk Gym Environment},
+   year = {2020},
+   publisher = {Mount Rouke},
+   journal = {Mount Rouke},
+   howpublished = {\url{https://gym.derkgame.com}},
+}
+</pre>
+
+### 4. Robotic-Warehouse
+#### [[Project Website]](https://github.com/uoe-agents/robotic-warehouse)
+<pre>
+@article{RWARE,
+    author = {Christianos, Filippos and Sch\"{a}fer, Lukas and Albrecht, Stefano},
+    title = {{Shared Experience Actor-Critic for Multi-Agent Reinforcement Learning}},
+    year = {2020},
+    note = {\url{https://github.com/uoe-agents/robotic-warehouse}},
+}
+</pre>
